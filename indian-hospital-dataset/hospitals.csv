@@ -1,0 +1,34 @@
+hospital_id,name,state,tier,beds,teaching
+df0f948a-2202-459a-ba6f-7ffd7dedcc18,Government General Hospital Maharashtra,Maharashtra,tier2,314,True
+3d59f4a6-ce9c-4945-8f1f-5929f09a7836,Government General Hospital Uttar Pradesh,Uttar Pradesh,tier2,481,True
+aac12881-4dea-42f3-bf32-8add9d5eee49,Government General Hospital Tamil Nadu,Tamil Nadu,tier2,428,True
+28879338-cd09-48bb-bedb-730b8ee8ab4e,Government General Hospital Karnataka,Karnataka,tier2,304,True
+2f5c9dbb-cef7-46a2-8f35-ac5bdc0232c6,Government General Hospital West Bengal,West Bengal,tier2,632,True
+07be5257-4d9e-4a9f-a5d3-78150979fb72,Government General Hospital Gujarat,Gujarat,tier2,230,True
+38925740-3bf1-4649-8b8b-ae114bf3677e,Government General Hospital Andhra Pradesh,Andhra Pradesh,tier2,423,True
+94fcd4c9-f30d-4e64-a627-84d30118ca7c,Government General Hospital Telangana,Telangana,tier2,717,True
+f0bb4c45-e80c-42f8-887d-c76610eb638f,Government General Hospital Kerala,Kerala,tier2,774,True
+ec4cfe51-9dc6-4c37-aa71-6a806ad081a7,Government General Hospital Rajasthan,Rajasthan,tier2,758,False
+1501b474-b65f-4e51-845e-2b4e75ddf103,Government General Hospital Madhya Pradesh,Madhya Pradesh,tier2,425,False
+940aa29b-4c6a-40d1-8248-bef07d4add4d,Government General Hospital Haryana,Haryana,tier2,484,True
+c522d48a-f9a9-41c2-9cbb-92969dbfca06,Government General Hospital Bihar,Bihar,tier2,363,False
+e698154c-39f9-44e0-880b-ffa8cf712a87,Government General Hospital Punjab,Punjab,tier2,548,False
+b22e7b51-2ea6-4611-a8e5-d3d24ec779d8,Government General Hospital Odisha,Odisha,tier2,359,True
+13fff27b-ec37-4afc-b5b3-51fedbc8b57e,District Hospital Odisha,Odisha,tier3,146,False
+8b733042-ab27-4916-a245-cfc6fe35c6d5,District Hospital Gujarat,Gujarat,tier3,70,False
+df4431ea-1acf-4e77-963c-6173e9787151,District Hospital Uttar Pradesh,Uttar Pradesh,tier3,191,False
+4a26ae8a-f238-4e8c-a57b-db8c65be7919,District Hospital Uttar Pradesh,Uttar Pradesh,tier3,125,False
+d7a59112-7a8d-4ebf-b0b0-b5908358a10a,District Hospital Bihar,Bihar,tier3,142,False
+8b636965-b70d-4041-8c47-491d8a8a20f8,District Hospital Rajasthan,Rajasthan,tier3,197,False
+a86650ea-3517-4285-bc11-ffa2085a8df2,District Hospital Bihar,Bihar,tier3,99,False
+8b1e01b7-9f0e-413f-b330-454d271a5c6e,District Hospital Madhya Pradesh,Madhya Pradesh,tier3,67,False
+5da80ca2-9cd0-405a-aeaa-a20d7f9e0154,District Hospital Kerala,Kerala,tier3,61,False
+72a121a0-e938-4373-8839-fc3a2a35fa6e,District Hospital Odisha,Odisha,tier3,108,False
+422f6ed3-147b-4f1a-815b-7a383a181a13,Apollo/Manipal (Private) Andhra Pradesh,Andhra Pradesh,tier1,663,True
+0b90b010-a4b9-443f-a2ca-58033973fc14,Apollo/Manipal (Private) Telangana,Telangana,tier1,514,True
+fe7c70a4-5806-45e4-9ec8-3a329d41ee5a,Apollo/Manipal (Private) Andhra Pradesh,Andhra Pradesh,tier1,986,True
+b08067df-ad81-4829-a46f-3332da7739e4,Apollo/Manipal (Private) Andhra Pradesh,Andhra Pradesh,tier1,573,True
+eae7c9ec-65c8-4d48-92f3-7da7b3e2b227,Apollo/Manipal (Private) Karnataka,Karnataka,tier1,1018,True
+ad0ba923-bc16-42a4-a49c-9f8a5ce6e8c1,Apollo/Manipal (Private) Karnataka,Karnataka,tier1,999,True
+c78a3d62-36c7-4f33-b76b-3a9020611d24,Apollo/Manipal (Private) Andhra Pradesh,Andhra Pradesh,tier1,963,True
+7904ed71-f3b9-4a59-872b-5b1065ef7fb1,Apollo/Manipal (Private) Uttar Pradesh,Uttar Pradesh,tier1,373,True
