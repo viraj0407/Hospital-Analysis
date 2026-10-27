@@ -3,6 +3,8 @@
 **EDA · Statistical Testing · Machine Learning**
 *April 2026 | Confidential Healthcare Analytics Project*
 
+🔗 Live Dashboard: https://hospital-bottleneck-analysis.streamlit.app/
+
 ## 📌 Overview
 
 This project presents an end-to-end data science analysis of hospital system inefficiencies using **120,000 patient admissions across 33 hospitals (2015–2024)**. The goal is to identify critical operational bottlenecks and provide **data-driven, actionable solutions** to improve healthcare delivery.
